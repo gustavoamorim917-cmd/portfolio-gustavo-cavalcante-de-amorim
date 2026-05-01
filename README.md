@@ -41,11 +41,6 @@ Atualmente cursando o 1° semestre de Engenharia de Software na Universiade de S
 | :--- | :--- | :---: |
 | **Algoritimo de auditoria de dados** | Um programa que analisa a consistência de dados finamceiros, utilizando ecopo global/local oara parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-auditoria-de-dados/) |
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
 ---
  
 ### 🏗 Estrutura do Repositório
