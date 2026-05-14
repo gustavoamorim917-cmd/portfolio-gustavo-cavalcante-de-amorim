@@ -41,6 +41,7 @@ Atualmente cursando o 1° semestre de Engenharia de Software na Universiade de S
 | :--- | :--- | :---: |
 | **Algoritimo de auditoria de dados** | Um programa que analisa a consistência de dados finamceiros, utilizando ecopo global/local oara parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-auditoria-de-dados/) |
  | **Engenharia de Soluções Lógicas** | Desenvolvimento de uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-soluçoes-logicas/) |
+ | **Traduzindo Lógica para Python** | O objetivo deste trabalho é realizar a transição da lógica abstrata (pseudocódigo) para a sintaxe funcional da linguagem Python. | [Ver Projeto](./projeto-engenharia-de-soluçoes-logicas/) |
 ---
  
 ### 🏗 Estrutura do Repositório
